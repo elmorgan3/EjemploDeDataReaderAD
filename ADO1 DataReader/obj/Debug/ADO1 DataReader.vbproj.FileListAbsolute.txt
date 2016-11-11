@@ -1,0 +1,35 @@
+C:\Users\rafa\Desktop\ADO1 DataReader\ADO1 DataReader\bin\Debug\ADO1 DataReader.exe.config
+C:\Users\rafa\Desktop\ADO1 DataReader\ADO1 DataReader\bin\Debug\ADO1 DataReader.exe
+C:\Users\rafa\Desktop\ADO1 DataReader\ADO1 DataReader\bin\Debug\ADO1 DataReader.pdb
+C:\Users\rafa\Desktop\ADO1 DataReader\ADO1 DataReader\bin\Debug\ADO1 DataReader.xml
+C:\Users\rafa\Desktop\ADO1 DataReader\ADO1 DataReader\obj\Debug\ADO1_DataReader.Form1.resources
+C:\Users\rafa\Desktop\ADO1 DataReader\ADO1 DataReader\obj\Debug\ADO1_DataReader.Resources.resources
+C:\Users\rafa\Desktop\ADO1 DataReader\ADO1 DataReader\obj\Debug\ADO1 DataReader.vbproj.GenerateResource.Cache
+C:\Users\rafa\Desktop\ADO1 DataReader\ADO1 DataReader\obj\Debug\ADO1 DataReader.exe
+C:\Users\rafa\Desktop\ADO1 DataReader\ADO1 DataReader\obj\Debug\ADO1 DataReader.xml
+C:\Users\rafa\Desktop\ADO1 DataReader\ADO1 DataReader\obj\Debug\ADO1 DataReader.pdb
+D:\VMWare04\AccesDades\ADO1 DataReader\ADO1 DataReader\ADO1 DataReader\bin\Debug\ADO1 DataReader.exe.config
+D:\VMWare04\AccesDades\ADO1 DataReader\ADO1 DataReader\ADO1 DataReader\obj\Debug\ADO1 DataReader.exe
+D:\VMWare04\AccesDades\ADO1 DataReader\ADO1 DataReader\ADO1 DataReader\obj\Debug\ADO1 DataReader.xml
+D:\VMWare04\AccesDades\ADO1 DataReader\ADO1 DataReader\ADO1 DataReader\obj\Debug\ADO1 DataReader.pdb
+D:\VMWare04\AccesDades\ADO1 DataReader\ADO1 DataReader\ADO1 DataReader\bin\Debug\ADO1 DataReader.exe
+D:\VMWare04\AccesDades\ADO1 DataReader\ADO1 DataReader\ADO1 DataReader\bin\Debug\ADO1 DataReader.pdb
+D:\VMWare04\AccesDades\ADO1 DataReader\ADO1 DataReader\ADO1 DataReader\bin\Debug\ADO1 DataReader.xml
+D:\VMWare04\AccesDades\ADO1 DataReader\ADO1 DataReader\ADO1 DataReader\obj\Debug\ADO1_DataReader.Form1.resources
+D:\VMWare04\AccesDades\ADO1 DataReader\ADO1 DataReader\ADO1 DataReader\obj\Debug\ADO1_DataReader.Resources.resources
+D:\VMWare04\AccesDades\ADO1 DataReader\ADO1 DataReader\ADO1 DataReader\obj\Debug\ADO1 DataReader.vbproj.GenerateResource.Cache
+D:\VMWare04\Acceso a datos\ADO1 DataReader\ADO1 DataReader\bin\Debug\ADO1 DataReader.exe.config
+D:\VMWare04\Acceso a datos\ADO1 DataReader\ADO1 DataReader\obj\Debug\ADO1 DataReader.exe
+D:\VMWare04\Acceso a datos\ADO1 DataReader\ADO1 DataReader\obj\Debug\ADO1 DataReader.xml
+D:\VMWare04\Acceso a datos\ADO1 DataReader\ADO1 DataReader\obj\Debug\ADO1 DataReader.pdb
+C:\Users\Morgan\Desktop\Acceso a datos\ADO1 DataReader\ADO1 DataReader\bin\Debug\ADO1 DataReader.exe.config
+C:\Users\Morgan\Desktop\Acceso a datos\ADO1 DataReader\ADO1 DataReader\obj\Debug\ADO1 DataReader.exe
+C:\Users\Morgan\Desktop\Acceso a datos\ADO1 DataReader\ADO1 DataReader\obj\Debug\ADO1 DataReader.xml
+C:\Users\Morgan\Desktop\Acceso a datos\ADO1 DataReader\ADO1 DataReader\obj\Debug\ADO1 DataReader.pdb
+C:\Users\Morgan\Desktop\Acceso a datos\ADO1 DataReader\ADO1 DataReader\bin\Debug\ADO1 DataReader.exe
+C:\Users\Morgan\Desktop\Acceso a datos\ADO1 DataReader\ADO1 DataReader\bin\Debug\ADO1 DataReader.pdb
+C:\Users\Morgan\Desktop\Acceso a datos\ADO1 DataReader\ADO1 DataReader\bin\Debug\ADO1 DataReader.xml
+C:\Users\Morgan\Desktop\Acceso a datos\ADO1 DataReader\ADO1 DataReader\obj\Debug\ADO1_DataReader.Form1.resources
+C:\Users\Morgan\Desktop\Acceso a datos\ADO1 DataReader\ADO1 DataReader\obj\Debug\ADO1_DataReader.Resources.resources
+C:\Users\Morgan\Desktop\Acceso a datos\ADO1 DataReader\ADO1 DataReader\obj\Debug\ADO1 DataReader.vbproj.GenerateResource.Cache
+C:\Users\Morgan\Desktop\Acceso a datos\ADO1 DataReader\ADO1 DataReader\obj\Debug\ADO1 DataReader.vbprojResolveAssemblyReference.cache
